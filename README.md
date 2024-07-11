@@ -126,6 +126,10 @@ _Mods meant to increase game performance._
 - [lithium-fabric](https://github.com/jellysquid3/lithium-fabric) - A Fabric mod designed to improve the general performance of Minecraft without breaking things.
 - [phosphor-fabric](https://github.com/jellysquid3/phosphor-fabric) - A Fabric mod designed to dramatically improve the performance of Minecraft's lighting engine while fixing many bugs.
 - [sodium-fabric](https://github.com/jellysquid3/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
+- [ModernFix](https://github.com/embeddedt/ModernFix) - Minecraft 1.16 & 1.18+ bugfix/performance mod
+- [EnhancedBlockEntities](https://github.com/FoundationGames/EnhancedBlockEntities) - A Minecraft Mod for Fabric which aims to make Block Entity rendering faster and more customizable with almost no compromises.
+- [C2ME-fabric](https://github.com/RelativityMC/C2ME-fabric) - A Fabric mod designed to improve the chunk performance of Minecraft.
+- [Nvidium](https://github.com/MCRcortex/nvidium) - Fast minecraft rendering backend for sodium (nvidia only)
 
 # Plugins
 
