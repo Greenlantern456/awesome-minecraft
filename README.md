@@ -50,6 +50,7 @@ _Libraries that aid in the creation of Minecraft commands._
 - [Cloud](https://github.com/Incendo/Cloud) - Command framework & dispatcher for the JVM with support for builders, annotations and a Kotlin DSL.
 - [CommandAPI](https://github.com/JorelAli/CommandAPI) - A Bukkit-only API for the command UI introduced in Minecraft 1.13.
 - [Commodore](https://github.com/lucko/commodore) - Utility for using Minecraft's 1.13 'brigadier' library in Bukkit plugins.
+- [Lamp](https://github.com/Revxrsal/Lamp) - A powerful, extendable, flexible yet simple to use commands annotation framework.
 - [LiteCommands](https://github.com/Rollczi/LiteCommands) - Annotation based Command framework for Velocity, Bukkit, Paper, BungeeCord and your other implementations.
 
 ## Configuration
@@ -80,6 +81,7 @@ _Libraries that make it easier to work with messages, text, etc._
 ## Protocol
 _Libraries for interacting with the minecraft protocol._
 
+- [Packetevents](https://github.com/retrooper/packetevents) - PacketEvents is a fast and efficient multi-platform packet processing library for Minecraft.
 - [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) - MCProtocolLib is a simple library for communicating with a Minecraft client/server. It aims to allow people to make custom bots, clients, or servers for Minecraft easily.
 - [PacketWrapper](https://github.com/dmulloy2/PacketWrapper) - Packet wrapper classes for ProtocolLib.
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/) - Provides read and write access to the Minecraft protocol with Bukkit.
@@ -227,7 +229,6 @@ _Minecraft server proxy software._
 
 - [Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
 - [Velocity](https://github.com/velocitypowered/velocity) - A Minecraft server proxy with unparalleled server support, scalability, and flexibility.
-- [Waterfall](https://github.com/papermc/waterfall) - BungeeCord fork that aims to improve performance and stability.
 
 ## Server Software
 _Minecraft server software._
