@@ -77,6 +77,7 @@ _Libraries that make it easier to work with messages, text, etc._
 - [adventure](https://github.com/KyoriPowered/adventure) - A serverside user interface library for Minecraft: Java Edition.
 - [adventure-text-minimessage](https://github.com/KyoriPowered/adventure) - Simple library that implements an easy to use textual format to send rich json messages.
 - [MineDown](https://github.com/Phoenix616/MineDown) - A MarkDown inspired markup library for Minecraft chat components.
+- [MiniPlaceholders](https://github.com/MiniPlaceholders/MiniPlaceholders/) - MiniMessage Component-based Placeholders for Paper, Fabric, Sponge, Folia and Velocity platforms.
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) - PlaceholderAPI is a plugin for Spigot servers that allows server owners to display information from various plugins with a uniform format.
 
 ## Protocol
@@ -105,6 +106,7 @@ _Utilities that don't particularly belong in any other category._
 - [scoreboard-library](https://github.com/MegavexNetwork/scoreboard-library) - Powerful packet-level scoreboard library for Paper/Spigot servers.
 - [SquirrelID](https://github.com/EngineHub/SquirrelID/) - Library for working with Mojang profiles
 - [Vault](https://github.com/MilkBowl/Vault) - Vault of common APIs for Bukkit Plugins.
+- [FastBoard](https://github.com/MrMicky-FR/FastBoard) - Lightweight packet-based scoreboard API for Bukkit plugins, with 1.7.10 to 1.21 support.
 
 # Mods
 
