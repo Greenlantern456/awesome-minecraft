@@ -59,6 +59,7 @@ _Libraries that make it easier to work with configuration files._
 - [Configurate](https://github.com/SpongePowered/Configurate/) - A simple configuration library for Java applications providing a node structure, a variety of formats, and tools for transformation.
 - [cdn](https://github.com/dzikoysk/cdn) - Simple and fast configuration library for JVM based apps, powered by CDN (Configuration Data Notation) format, based on enhanced JSON for Humans standard.
 - [okaeri-configs](https://github.com/OkaeriPoland/okaeri-configs) - Simple Java/POJO config library written with love and Lombok (with support for Bukkit BungeeCord and Velocity)
+- [ConfigLib](https://github.com/Exlll/ConfigLib) - A Minecraft library for saving, loading, updating, and commenting YAML configuration files.
 
 ## Inventories
 _Libraries for creating Minecraft GUIs using inventories._
@@ -111,6 +112,7 @@ _Utilities that don't particularly belong in any other category._
 _Other mods._
 
 - [ReplayMod](https://github.com/ReplayMod/ReplayMod) - A Minecraft mod to record game sessions and replay them afterwards from any perspective.
+- [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) - Fabric mod to connect to EVERY Minecraft server version (Release, Beta, Alpha, Classic, Snapshots, Bedrock) with QoL fixes to the gameplay.
 
 ## Platforms
 _Modding platforms._
@@ -156,6 +158,7 @@ _Map viewers._
 ## Other
 _Plugins that don't particularly fit in with any existing category._
 
+- [Sonar](https://github.com/jonesdevelopment/sonar) - Sonar is a lightweight, effective and easy-to-use anti-bot plugin for Velocity, BungeeCord, and Bukkit. (No Bukkit support yet!)
 - [DataSync](https://github.com/AnvilPowered/DataSync) - A minecraft plugin to synchronize and backup player data to a database
 - [NuVotifier](https://github.com/nuvotifier/NuVotifier) - A fork of Votifier, with more robust code and vote forwarding.
 - [OnTime](https://github.com/AnvilPowered/OnTime) - A cross-platform player time management plugin.
