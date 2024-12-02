@@ -166,7 +166,6 @@ _Map viewers._
 ## Other
 _Plugins that don't particularly fit in with any existing category._
 
-- [Sonar](https://github.com/jonesdevelopment/sonar) - Sonar is a lightweight, effective and easy-to-use anti-bot plugin for Velocity, BungeeCord, and Bukkit. (No Bukkit support yet!)
 - [DataSync](https://github.com/AnvilPowered/DataSync) - A minecraft plugin to synchronize and backup player data to a database
 - [NuVotifier](https://github.com/nuvotifier/NuVotifier) - A fork of Votifier, with more robust code and vote forwarding.
 - [OnTime](https://github.com/AnvilPowered/OnTime) - A cross-platform player time management plugin.
@@ -234,9 +233,6 @@ _Resources for Minecraft performance tuning._
 - [Aikar's Flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) - G1GC Garbage Collector Flags for Minecraft.
 - [Krusic22's Flags](https://krusic22.com/2020/03/25/higher-performance-crafting-using-jdk11-and-zgc/) - Optimized JDK11+ & ZGC flags for Minecraft servers.
 - [flags.sh](https://flags.sh/) - A simple script generator to start your Minecraft servers with optimal flags.
-
-## Protocol
-- [wiki.vg](https://wiki.vg) - Wiki.vg has documented the whole minecraft protocol for java and bedrock edition.
 
 # Software
 
