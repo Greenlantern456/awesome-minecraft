@@ -102,6 +102,7 @@ _Utilities that don't particularly belong in any other category._
 - [Anvil](https://github.com/AnvilPowered/Anvil) - A cross-platform database API / ORM / entity framework with useful services for minecraft plugins
 - [BKCommonLib](https://github.com/bergerhealer/BKCommonLib) - An extensive library used in bergerhealer's plugins.
 - [eco](https://github.com/Auxilor/eco) - A plugin framework with many APIs and utilities to simplify development.
+- [Fairy](https://github.com/FairyProject/fairy) - Fairy is a compat & open-sourced Framework made with love <3
 - [helper](https://github.com/lucko/helper) - A collection of utilities and extended APIs to support the rapid and easy development of Bukkit plugins.
 - [HologramLib](https://github.com/unldenis/Hologram-Lib) - Asynchronous, high-performance Minecraft Hologram library for 1.8-1.20.1 servers.
 - [mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
